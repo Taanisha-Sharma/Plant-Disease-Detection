@@ -1,8 +1,6 @@
 # Plant-Disease-Detection
 Using Convolution Neural Network Layers to detect plant diseases
 
-Presentation:
-https://drive.google.com/file/d/1hvUplTp2f-HdznBmf8-zKkbsCwDRP5sD/view?usp=sharing
 
 CNN and other Layers used: 
 ![Screenshot (726)](https://github.com/user-attachments/assets/9b429acb-99c0-4a57-b042-29e0765e7f64)
